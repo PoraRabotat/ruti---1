@@ -103,7 +103,7 @@ header{
     display: flex;
     flex-direction: row;
     list-style: none;
-    gap: 30px;
+    gap: 20px;
 }
 
 .main-menu a{
